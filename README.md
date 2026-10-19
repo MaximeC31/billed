@@ -1,6 +1,6 @@
 # Billed
 
-Application SaaS de gestion des notes de frais pour les ressources humaines.
+Application de gestion de notes de frais avec parcours employé et administrateur, tests Jest et simulation des appels API.
 
 ## Description
 
