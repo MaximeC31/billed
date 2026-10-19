@@ -1,4 +1,4 @@
-# Billed-app
+# Billed
 
 Application SaaS de gestion des notes de frais pour les ressources humaines.
 
